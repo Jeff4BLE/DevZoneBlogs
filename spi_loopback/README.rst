@@ -1,7 +1,4 @@
-[Adding a Peripheral to an NCS Zephyr project.](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/adding-a-peripheral-to-an-ncs-zephyr-project)
-
-
-
+[Adding a Peripheral to an NCS Zephyr project.]:https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/adding-a-peripheral-to-an-ncs-zephyr-project
 
 Objectives
 
