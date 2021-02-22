@@ -1,7 +1,6 @@
-[Adding a Peripheral to an NCS Zephyr project](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/adding-a-peripheral-to-an-ncs-zephyr-project/)
+The blog [Adding a Peripheral to an NCS Zephyr project](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/adding-a-peripheral-to-an-ncs-zephyr-project/) uses a barebones board.dts and adds an SPIS and SPIM peripheral, and provides loopback setup information.
 
 **Objectives**
-
  - Provide a brief primer to NCS and Zephyr
  - Provide a quick-start guide to adding peripherals to an existing sample project
  - Demonstrate running both foreground and background tasks within Zephyr
