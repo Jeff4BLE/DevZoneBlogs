@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/22987307/108808351-4b41a880-755b-11eb-8d21-c9f10e2e88b0.jpg
+![pho](https://user-images.githubusercontent.com/22987307/108808351-4b41a880-755b-11eb-8d21-c9f10e2e88b0.jpg)
 
 The blog [Adding a Peripheral to an NCS Zephyr project](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/adding-a-peripheral-to-an-ncs-zephyr-project/) uses a barebones board.dts and adds an SPIS and SPIM peripheral, and provides loopback setup information.
 
@@ -13,4 +13,4 @@ When starting with nRF Connect SDK and Zephyr, there are many well-documented re
 
 That blog provides a high-level, incomplete, and sometimes over generalized answer regarding adding a peripheral to your project. If any information contained within this blog is contradicted by referenced documentation, the reference documentation is assumed to be more accurate.
 
-https://github.com/ThatByDesign/DevZoneBlogs/issues/1
+![bar](https://user-images.githubusercontent.com/22987307/108808286-25b49f00-755b-11eb-8826-6384c732ebce.jpg)
