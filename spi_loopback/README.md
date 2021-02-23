@@ -1,3 +1,5 @@
+(https://github.com/ThatByDesign/DevZoneBlogs/issues/2)
+
 The blog [Adding a Peripheral to an NCS Zephyr project](https://devzone.nordicsemi.com/nordic/nordic-blog/b/blog/posts/adding-a-peripheral-to-an-ncs-zephyr-project/) uses a barebones board.dts and adds an SPIS and SPIM peripheral, and provides loopback setup information.
 
 **Objectives**
