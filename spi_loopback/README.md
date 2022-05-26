@@ -1,7 +1,7 @@
 
 ![](https://user-images.githubusercontent.com/22987307/108810162-5ac2f080-755f-11eb-88b1-3d5e50e59393.jpg)
 
-The blog [Adding a Peripheral to an NCS Zephyr project](https://devzone.nordicsemi.com/guides/nrf-connect-sdk-guides/b/peripherals/posts/adding-a-peripheral-to-an-ncs-zephyr-project)) uses a barebones board.dts and adds an SPIS and SPIM peripheral, and provides loopback setup information.
+The blog [Adding a Peripheral to an NCS Zephyr project](https://devzone.nordicsemi.com/guides/nrf-connect-sdk-guides/b/peripherals/posts/adding-a-peripheral-to-an-ncs-zephyr-project) uses a barebones board.dts and adds an SPIS and SPIM peripheral, and provides loopback setup information.
 
 The project was built upon NCS 1.4.2 and was initially located in the subdirectory ..\ncs\v1.4.2\zephyr\samples\basic\spi_loopback
 
